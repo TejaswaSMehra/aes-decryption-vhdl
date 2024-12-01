@@ -45,6 +45,3 @@ The design has been tested through **FPGA simulations** on a Basys3 board to ens
 ## Authors
 - **Tejaswa Singh Mehra**  
 - **Ishan Rehal**
-
-## License
-This project is licensed under the MIT License.
